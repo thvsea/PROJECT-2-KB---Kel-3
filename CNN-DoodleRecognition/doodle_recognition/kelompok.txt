@@ -1,0 +1,20 @@
+
+KB C 
+  Kelompok 3 
+    - C14220067 Valencia Jessica Yusuf
+    - C14220101 Sharon Naftalie
+    - C14220103 Cheryl Tiffany 
+    - C14220104 Jane Felicia Indrawijaya
+    - C14220133 Cathlyn Angeline
+
+Topik : Neural Network , Convolutional
+
+referensi penjelasan CNN layers : https://poloclub.github.io/cnn-explainer/ 
+referensi softmax & one-hot encoding : https://www.pinecone.io/learn/softmax-activation/ 
+  activation layer : 
+  - pengecekan pake reLU  -> max(0,___)  || hilangin -, ngerubah nilai minus jdi 0 
+  - perhitungan probabiltas akhir pake softmax (total probabiltas dri semua gambar psti 1)
+
+library yg dpake = 
+  - phaser2 (buat game) 
+  - tensorflow (buat neural) 
